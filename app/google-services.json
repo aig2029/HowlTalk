@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70762810738",
+    "project_id": "howltalk-914c0",
+    "storage_bucket": "howltalk-914c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70762810738:android:26436ecc403a34078461eb",
+        "android_client_info": {
+          "package_name": "com.example.howltalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70762810738-vf6omchcc25s88d9fb02me3admg4letc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARaWx1y5eRpsgF4CfoKViFzZtgrFx-6lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70762810738-vf6omchcc25s88d9fb02me3admg4letc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
